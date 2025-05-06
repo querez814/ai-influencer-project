@@ -1,0 +1,81 @@
+{
+    "scenarios": [
+        "influencer at coffee shop working on laptop",
+        "influencer at home office setup with modern tech gadgets",
+        "influencer at outdoor photoshoot in urban setting",
+        "influencer shopping at high-end fashion store",
+        "influencer at fitness studio in workout clothes",
+        "influencer at beach resort taking selfie",
+        "influencer speaking at tech conference",
+        "influencer unboxing new tech products on camera",
+        "influencer at art gallery opening event",
+        "influencer exploring street food market"
+    ],
+    "styles": [
+        "professional photography, golden hour lighting",
+        "candid style, natural lighting",
+        "magazine editorial style, studio lighting",
+        "instagram aesthetic, vibrant colors",
+        "cinematic look, shallow depth of field",
+        "minimalist style, clean background",
+        "lifestyle photography, documentary feel",
+        "fashion photography, high contrast",
+        "commercial photography, product centered",
+        "travel photography, wide angle"
+    ],
+    "aspect_ratios": {
+        "instagram": [1, 1],
+        "instagram_story": [9, 16],
+        "tiktok": [9, 16],
+        "twitter": [16, 9]
+    },
+    "content_categories": {
+        "lifestyle": [
+            "morning routine",
+            "workspace setup",
+            "travel vlog",
+            "workout session",
+            "cooking healthy meal"
+        ],
+        "promotional": [
+            "tech product review",
+            "skincare routine with products",
+            "fashion haul",
+            "supplement recommendation",
+            "app demonstration"
+        ],
+        "educational": [
+            "explaining tech concept",
+            "productivity tips",
+            "financial advice",
+            "career development",
+            "digital tools tutorial"
+        ]
+    },
+    "locations": [
+        "modern apartment with city view",
+        "trendy coffee shop with minimalist decor",
+        "co-working space with glass walls",
+        "urban street with graffiti art",
+        "luxury hotel lobby with elegant furniture",
+        "beachfront with palm trees",
+        "mountain hiking trail with scenic view",
+        "high-end restaurant with mood lighting",
+        "tech store with latest gadgets on display",
+        "home studio with professional lighting setup"
+    ],
+    "emotions": [
+        "confident and professional",
+        "joyful and excited",
+        "focused and determined",
+        "relaxed and content",
+        "inspired and creative",
+        "thoughtful and reflective"
+    ],
+    "seasons": [
+        "summer with bright sunlight",
+        "autumn with golden leaves",
+        "winter with cozy indoor setting",
+        "spring with blooming flowers"
+    ]
+}

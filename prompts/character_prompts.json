@@ -1,0 +1,26 @@
+{
+    "base_character": "high quality photograph of a petite female influencer, mixed Caucasian and Asian features, shoulder-length dark hair with blonde highlights, natural makeup, friendly smile, fashionable casual outfit, standing confidently, professional photography, natural lighting, ultra detailed, photorealistic, 8k, high definition",
+    "negative_prompt": "deformed, disfigured, poor quality, low quality, amateur, distorted proportions, blurry, unrealistic features, excessive makeup, cartoon, anime style, extra limbs, bad anatomy, double face",
+    "variations": [
+        "close-up portrait of a petite female influencer with mixed Caucasian and Asian features and dark hair with blonde highlights, soft smile, natural lighting, professional photography, bokeh background",
+        "full body shot of a petite female influencer with mixed Caucasian and Asian features and dark hair with blonde highlights, stylish outfit, urban setting, street fashion, confident pose",
+        "three-quarter view of a petite female influencer with mixed Caucasian and Asian features and dark hair with blonde highlights, business casual attire, modern office setting, professional look",
+        "profile view of a petite female influencer with mixed Caucasian and Asian features and dark hair with blonde highlights, outdoor natural setting, golden hour lighting",
+        "petite female influencer with mixed Caucasian and Asian features and dark hair with blonde highlights at cafe, casual style, working on laptop, lifestyle shot"
+    ],
+    "styles": [
+        "professional portrait style",
+        "candid photojournalistic style",
+        "fashion magazine style",
+        "lifestyle photography style",
+        "commercial advertising style"
+    ],
+    "modifiers": [
+        "ultra detailed skin texture",
+        "professional studio lighting",
+        "film grain",
+        "shot on Canon EOS R5",
+        "85mm lens f/1.4",
+        "shallow depth of field"
+    ]
+}
